@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A simple terminal-based slot machine game written in Node.js. Players can deposit money, place bets on 1 to 3 lines, spin the reels, and win based on matching symbols. Includes features like bet customization, balance tracking, and a win/loss summary.",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
